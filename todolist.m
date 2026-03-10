@@ -4,13 +4,13 @@
 - **Company Name:** Meubles en Palette C.i
 - **Directory:** meubles_en_palette_c_i
 - **Address/Contact:** 
-  - 9X3W+R63 Abidjan, Abidjan, C�te d'Ivoire, 225
+  - 9X3W+R63 Abidjan, Abidjan, Céte d'Ivoire, 225
   - 
-  - Cocody, C�te d'Ivoire
+  - Cocody, Céte d'Ivoire
   - Liens
   - 
   - galerie-artisan.ci
-  - Coordonn�es
+  - Coordonnées
   - 
   - +225 0758986069
   - 
